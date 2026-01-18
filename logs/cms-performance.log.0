@@ -1,0 +1,8 @@
+Sept 06, 2025 10:12:52 AM com.cms.util.CMSLogger logTemplateProcessing
+INFO: TEMPLATE_RENDER - Template processed - ID: article-template, Path: /templates/article-template.html, Render Time: 150 ms, Output: 4096 bytes, Variables: 5
+Sept 06, 2025 10:17:32 AM com.cms.util.CMSLogger logTemplateProcessing
+INFO: TEMPLATE_RENDER - Template processed - ID: article-template, Path: /templates/article-template.html, Render Time: 150 ms, Output: 4096 bytes, Variables: 5
+Sept 06, 2025 10:18:26 AM com.cms.util.CMSLogger logTemplateProcessing
+INFO: TEMPLATE_RENDER - Template processed - ID: article-template, Path: /templates/article-template.html, Render Time: 150 ms, Output: 4096 bytes, Variables: 5
+Sept 06, 2025 5:10:06 PM com.cms.util.CMSLogger logTemplateProcessing
+INFO: TEMPLATE_RENDER - Template processed - ID: article-template, Path: /templates/article-template.html, Render Time: 150 ms, Output: 4096 bytes, Variables: 5
